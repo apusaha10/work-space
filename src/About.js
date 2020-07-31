@@ -1,0 +1,13 @@
+import React from 'react'
+
+export const About = () => (
+
+
+      <div>
+        <h2> About Page</h2>
+
+        <p>this is my about page</p>
+      </div>
+
+
+	)
